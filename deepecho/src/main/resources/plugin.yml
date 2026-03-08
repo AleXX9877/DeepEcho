@@ -1,0 +1,6 @@
+name: DeepEcho
+version: 2.0
+main: com.deepecho.DeepEcho
+api-version: 1.21
+author: ZenLux
+description: Sistema sonar sensoriale per le profondità
